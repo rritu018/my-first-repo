@@ -1,3 +1,4 @@
 # my-first-repo
 first git repo
-author - Ritu Rak
+<br>
+author - Ritu Raj
